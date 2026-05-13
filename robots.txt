@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Ares4Tech.github.io/readme-whbfvr/sitemap.xml
